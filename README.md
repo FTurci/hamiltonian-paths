@@ -2,4 +2,4 @@
 
 A Pyhton code to explore dense self-avoiding walks.
 
-![L shaped path](fig0099000.png)
+![L shaped path](lshaped.png)
